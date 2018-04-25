@@ -1,0 +1,273 @@
+Barrington-Leigh, Christopher P. and Ouliaris, Mark. 2016. The Renewable Energy Landscape in Canada: A Spatial Analysis. USAEE Working Paper No. 16-246. Available at SSRN: http://ssrn.com/abstract=2724871 or http://dx.doi.org/10.2139/ssrn.2724871 
+
+Applies GIS layers to basemap of Canada to locate and specify renewable energy potentials across different types - wind, tide, umw
+Estimates total potential by region, using apparently decent resolution base data, but goes no further than that
+
+
+
+Blaschke, Thomas, Biberacher, Markus, Gadocha, Sabine, Schardinger, Ingrid. 2013.‘Energy landscapes’: Meeting energy demands and human aspirations. Biomass and Bioenergy 55: 3-16
+
+Spatial and temporal variation are essential to understand renewables, particularly biomass, and can be modeled in time and space
+Major build-out of biomass use will lead to 'energy landscapes' as object of study
+Calculation of potentials couples with economic assessment of competitiveness of particular potentials
+Both supply and demand characteristics can be mapped and assessed spatially, not typically done well enough
+Biofuel targets in Europe are increasingly going to convert cropland to biofuels - 10% or more - with potential benefits and problems
+Productivity tied to energy carrier, conversion to useful form, delivery. Carrier more spatially diffuse and particular, so area matters
+GIS can incorporate multiple layers representing different input data allowing for assessment over space
+Typically biomass is estimated, then assigned values in a raster, in their study 250m pixels
+Important however to consider human components in order to truly understand the 'energy landscape' -  theory, policy, so on.
+'Energy region' too narrow, too focused on arbitrary boundaries, energy landscape draws from systems theory
+Distance between features like roads and towns makes a big different in assessing the actual real world feasibility
+Energy landscape mapping in GIS can allow for scenario planning based on social decisions
+
+
+
+Bridge, Gavin, Bouzarovski, Stefan, Bradshaw, Michael, Eyre, Nick. 2013 Geographies of energy transition: Space, place and the low-carbon economy.Energy Policy 53, 331-340
+
+Transition to a universal access renewable energy driven energy system a major 21st challenge, unclear path though
+It is a fundamentally geographic process with attention to space and place crucial
+Carbon is not adequately considered by current energy model of centralisation and cheap access to consumers
+
+"We use the term ‘energy landscape’ in the same
+way as implied by an ‘economic’ or an ‘urban’ landscape: that is,
+to describe the constellation of activities and socio-technical
+linkages associated with energy capture, conversion, distribution
+and consumption. For geographers, material landscapes – from oil
+fields, to wind farms, to urban settlements – are the product of
+social processes and the outcomes of conflict and negotiation
+among different social groups."
+
+Transition to renewables will have a spatial impact, resistance often tied to lack of consideration for local understanding of space/place
+Now, decentralized components are marginalized, supply is routed through companies, state orientation prevents innovative development
+Path dependency is a past and present issue, affects interests, affects what is acceptable to interests
+
+
+
+Burgess, Paul J., Casado, Monica Rivas, Gavu, Jerry, Mead, Andrew, Cockerill, Tim, Lord, Richard, van der Horst, Dan, Howard, David C. 2012. A framework for reviewing the trade-offs between, renewable energy, food, feed and wood production at a local level. Renewable and Sustainable Energy Reviews 16: 129– 142
+
+Looks at the Marston Vale area in UK to estimate self-suffiency potential in energy production using multiple energy sources
+Local situation population/demand-wise makes full self-sufficiency dicey, but significant chunks can be produced
+Creates a framework for assessing trade-offs between sources
+*Best thing about this is it provides ONE way to structure analysis - household level demand and assumed fixed productivity by land class
+
+
+
+
+Calvert, K. and Mabee, W. 2015. More solar farms or more bioenergy crops? Mapping and assessing potential land-use conflicts among renewable energy technologies in eastern Ontario, Canada. Applied Geography 56:209-221
+
+Dynamic land use systems are the norm when renewables are considered, multiple trade-offs, but also synergies, context important
+Land impact tied to scale and type of renewables, energy autarky generally means large land impacts - though not inherently destructive
+It is important to consider trade-offs in land use and variances in spatial/temporal demand, capabilities, social stuff
+*Remainder discusses methodological details more fully, quite useful
+
+
+
+
+Calvert, K., Pearce, J.M., Mabee, W.E. 2013. Toward renewable energy geo-information infrastructures: Applications of GIScience and remote sensing that build institutional capacity. Renewable and Sustainable Energy Reviews 18: 416–429
+
+Given the need to move towards a sustainable energy system, an actively managed transition is potentially optimal
+*DAMN good figures to borrow from, great overview
+Geodatabase has 3 key elements: data domain, analytic domain, communication domain; data domain comprised of potentials, limits/opps, ancill.
+Got the usual raster/vector discusion, each having advantages under different circumstances tied to their nature
+Each type of renewable energy in a database associated with different mode of data collection, remote sensing common
+Social factors are important and can be incorporated a number of ways too
+Spatial scale level chosen is largely a matter of what makes sense in context
+Geographical context is a key factor in assessing renewables on a landscape basis, can identify additional value factors
+Decision support system logical extension of GIS based analysis
+
+
+
+Coleby, Alastor M., van der Horst, Dan, Hubacek, Klaus, Goodier, Chris, Burgess, Paul J. Graves, Anil, Lord, Richard, Howard, David. 2012. Environmental Impact Assessment, ecosystems services and the case of energy crops in England Journal of Environmental Planning and Management 55:3  369–385 
+
+Biofuels in Europe promise to boost spatial impacts on landscape and cause change
+Other aspects of the environment like ecosystem services must be considered to prevent loss of important things
+Costs, benefits not equally distributed
+
+
+
+Dale, Virginia H., Kline, Keith L., Buford, Marilyn A., Volk, Timothy A., Smith, C. Tattersall, Stupak, Inge 2016. Incorporating bioenergy into sustainable landscape designs. Renewable and Sustainable Energy Reviews 56: 1158–1171
+
+Biofuels have special characteristics a they can be either electric or transportable fuel converted
+If viewed as a simple market good, numerous externalities are likely to emerge and undermine sustainability
+Effective renewable energy via biofuels will necessite landscapes be designed to handle trade-offs, optimize
+Landscape design has a long history of working with energy, and scale level matters, though can be chosen for convenience
+Split between top-down and bottom-up approaches to planning, each with goods and bads
+Various forms of planning exist, ranging from organizational analysis to multi-objective to spatial optimization to gaming
+Applying sustainability principles essential to avoid damaging other services, and integration may be possible for mutual benefits
+Basic design process post-data collection: goals - constraints/opportunities - optimise - evaluate scenarios
+
+
+
+Elmore, Andrew J., Shi, Xun, Gorence, Nathaniel J., Li, Xia, Jin, Haiming, Wang, Fang, Zhang, Xiaohao. 2008. Spatial distribution of agricultural residue from rice for potential biofuel production in China. Biomass and Bioenergy 32: 22-27
+
+Understanding land potential is key, determining siting of key infrastructure and transport also very important
+NDVI time series can be used to estimate biomass potential over time by linking to NPP value
+This study looked at China, 1km grid cells, converting NPP detected to straw mass, then to energy
+
+
+
+Elobeid, A., Tokgoz, S., Dodder, R. Johnson, T. Kaplan, O. Kurkalova, L., Secchi, S. 2013. Integration of agricultural and energy system models for biofuel assessment. Environmental Modelling & Software 48: 1-16
+
+Models like Markel and CARD can be used to assess biofuel contributions to overall energy mix, do scenarios
+*This is really about a method of optimization, might be useful but is probably over-detailed, and for optimal capital purposes
+
+
+
+Howard, D.C., Burgess, P.J, Butler, S.J., Carver, S.J., Cockerill, T., Coleby, A.M., Gan, G., Goodier, C.J., Van der Horst, D., Hubacek, K., Lord, R., Mead, A., Rivas-Casado, M., Wadsworth, R.A., Scholefield, P. 2013. Biomass and Bioenergy 55: 17-26
+
+'energyscape' is a way of looking at the interaction of human and renewable energy systems - local/landscape context important
+*really same idea as energy landscape, I think
+Lower energy content of biomass and other renewable sources means larger spatial area needed - sustainability is crucial
+A major gap between renewable intent and spatial mapping exists, which prevents study of different important, subtle issues
+Being able to assess important trade-offs at a local/landscape scale is essential, and understanding vagaries of local context
+*Some good diagrams and discussion - never makes the case for energyscape as distinct from energy landscape, I think, 'stakeholder' important
+
+
+
+Matejicek, L. 2015. Multicriteria Analysis for Sources of Renewable Energy Using Data From Remote Sensing. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XL-7/W3, 2015 36th International Symposium on Remote Sensing of Environment, 11–15 May 2015, Berlin, Germany
+
+Remote Sensing + GIS = ability to assess and optimize different models of evaluating energy landscapes
+*Basically, use Landsat at points in time to assess resource base, aggregating/scoring as appropriate, then go GIS on the thing
+
+
+
+
+Milder, Jeffrey C., McNeely, Jeffrey A., Shames, Seth A., Scherr, Sara J. 2008. Biofuels and ecoagriculture: can bioenergy production
+enhance landscape-scale ecosystem conservation and rural livelihoods? International Journal of Agricultural Sustainability 6:2, 105-121
+
+Biofuel is old and still the primary fuel source in much of the world, only relegated because of cheap fossil fuels
+It is also now subject to massive capital investment and serious environmental consequences
+Conservation, sustainability, livelihoods key focal emphasises for Ecoagriculture view
+Can be produced on a multifunctional landscape so that other services are not unduly impacted
+External actors do not always care about local impacts, and monocultures have been typical
+Developing world benefits to area modification/planning of biofuel systems for local purpose - 2 billion energy poverty, 1+million deaths
+Interstitial systems provide the highest social welfare benefit for opportunity costs generated, large scale the opposite
+*uses landscape classification to identify ideal areas, not pixels
+*Some great summaries in here to discuss in detail if necessary - basically supports case for local control, scale, heterogeneity...
+
+
+
+
+Pasqualetti, Martin J. 2011. Social Barriers to Renewable Energy Landscapes. The Geographical Review 101:2, 201-223
+
+*Kind of what it says on the tin - social factors are important components of the ultimate policy assessment
+
+
+
+Martin J. Pasqualetti, Thomas E. Jones, Len Necefer, Christopher A. Scott & Benedict J. Colombi (2016): A Paradox of Plenty: Renewable Energy on Navajo Nation Lands,Society & Natural Resources 0:0, 1-15
+
+Local values are essential to determining whether RE projects are feasible, economics is only part of the scene
+Navajo spiritual/cultural values in conjunction with perceptions of unequal benefits and regulatory difficulty key
+Past history of energy infrastructure on native lands (mining) leave history of distrust to overcome
+
+
+
+Pasqualetti, Martin J. and Brown, Marilyn A. 2014. Ancient discipline, modern concern: Geographers in the field of energy and society. Energy Research & Social Science 1:122-133
+
+Energy, society, and landscape are fundamentally linked, making geography an interesting starting point for assessing such
+Energy poverty remains in the 21st century terribly widespread, 1.3 billion people at least energy-poor
+
+
+
+Resch, Bernd, Sagl, Günther, Törnros, Tobias, Bachmaier, Andreas, Eggers, Jan-Bleicke, Herkel, Narmsara, Sattaya, Gündra, Hartmut. 2014. GIS-Based Planning and Modeling for Renewable Energy:Challenges and Future Research Avenues.
+
+*Quite a technical article. Good stuff to think over a I'm building things, methods discussion
+GIS and energy model integration is quite new, but essential in integrating renewable energy planning at various scales
+Key issue is the aggregation and disaggregation of data for varying purposes, geodatabase must consider this
+
+
+
+Sáfián, Fanni. Modelling the Hungarian energy system e The first step towards sustainable energy planning. Energy 69: 58-66
+
+Cheap fossil fuel era ending, shift to renewables is necessary, and fossil-fuel reliant countries like Hungary must change
+Politics, geography, sustainability intersecting to make country/region scale full renewable load possible
+*country level energy systems model, not spatially explicit, simulates based on official stats
+
+
+Sovacool, Benjamin K. 2014. What are we doing here? Analyzing fifteen years of energy scholarship and proposing a social science research agenda. Energy Research & Social Science 1, 1-29
+
+Energy research must take better account of the social sciences, qualitative methods, and above all people's choice of energy systems
+*dense and a GREAT overview of trends, history, so on. Will re-read. But for citing...not so useful
+
+
+Stremke 2014, Energy-Landscape Nexus, Conference Paper
+
+Necessary to start considering sustainable energy landscapes, not just renewable energy or energy landscapes separately
+Conceptual framework presented for assessment of sustainability - social, economic, environmental and technical concerns 
+Ecosystem services are crucial for assessment
+
+
+
+Tenerelli, Patrizia and Carver, Steve. 2012. Multi-criteria, multi-objective and uncertainty analysis for agro-energy spatial modelling. Applied Geography 32:724-736
+
+*P726 Excellent diagram, overall this piece is excellent in describing how to spatially model this stuff - just more a methods section piece
+Building a land capability map is an important step in constructing a decision support/planning tool
+Uncertainty analysis is an important step/inclusion in model
+*LOTS here, just more a 'how-to' in one aspect
+
+
+
+van der Horst, Dan and Vermeylen, Saskia. 2011. Local Rights to Landscape in the Global Moral Economy of Carbon. Landscape Research 36:4, 455–470
+
+Local is increasingly in tension with global with respect to energy systems, particularly in rural places, landscape-energy conflict
+global wants a low-carbon economy for atmospheric conservation, local wants to conserve the landscape itself, so tension
+Each side is actually a condensed meta-narrative which can, needs to, be unpacked
+Carbon is being increasingly referred to as a negative moral currency of sorts, and turned into a commodity to be traded
+This conception repeats economic thinking mistakes about efficiency and efficacy, will lead to pollution in developing world
+Internally to the local there are narrative issues as well, often battles over who gets to be more local and thus have certain rights
+Social enterprises may offer a bridge, locally controlled and operated, for local benefits that accord with global objectives
+Arguments and narratives need to be fully unpacked to appreciate the true opposition grounds, can point path to compromise
+
+
+
+van der Horst, Dan and Vermeylen, Saskia. 2010. Spatial scale and social impacts of biofuel production. Biomass and Bioenergy 35: 2435-2443
+
+Landscape impacts due to biofuel production do not necessarily fall equally on populations, impacts itself too glib a term
+Additionally, many biofuel effects basically amount to land grabs by powerful external entities with global interests
+More marginalized, more likely to rely on the land for basic needs which can be obtained from nature
+Powerful external interests often at odds with local interests, values, conceptions of the landscape, requirements from it
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

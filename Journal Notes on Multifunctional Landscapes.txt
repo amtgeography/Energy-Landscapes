@@ -1,0 +1,517 @@
+1. Argent, Neil, Smailes, Peter, Griffin, Trevor. 2007. The Amenity Complex: Towards a Framework for Analysing and Predicting the Emergence of a Multifunctional Countryside in Australia. Geographical Research 45:3, 217-232
+
+A shift to the production of amenity values appears inherent in modern rural places, including Australia
+Amenity can have complex meanings, but tends to focus on "attractiveness or otherwise of the general environment" and "qualities or facilities of locale"
+Amenity can have multiple dimensions, depending on scale and level (time - weekly, monthly, so on), with site dominant at short timescale
+Amenity is an anthropocentric concept, a complex of interlocking factors, preferences, which complicates selection of indicators
+Australia is an interesting object of study due to general loss of population in internal area, but migration to some rural areas
+Actually understanding a regional amenity provision level is difficult to quantify, some material indicators must be identified
+Indicators include climate, topography, surface water, amount of park/wilderness land, winter rec. opps., beach distance, remoteness, rec. employment
+Uneven distribution of all of these relative to the land base in rural Australia, some places far more rich than others
+Utilized indicators identified above in attempt to quantify/spatially locate high-amenity areas in southern Aus
+Coefficients functioned in model as predicted in terms of direction, but many correlations were rather weak, inter-correlations a problem
+Creation of 'Amenity Index' based on metrics with strongest association resulted in settlement duration, beach distance, rec. employ, irrigation strongest
+Counter-intuitive results obtained, and there is a reasonable question about how possible it is to generate a single amenity index
+
+
+2. Bills, Nelson, and Gross, David. 2005. Sustaining multifunctinal agricultural landscapes: comparing stakeholder perspectives in New York (US) and England (UK). Land Use Policy 22: 313-321
+
+The ideas of 'multifunctional agricultural landscapes emerged from trade debates at the WTO via the EU, arguing ag landscapes provide many services
+An opposing view is that purposeful investments in ecological improvements are superior than relying on multifunctionality in agriculture
+In both the US and UK public money is directed towards ag/rural areas, transferring material benefits via a variety of mechanisms
+Focus group studies in the UK and US saw that farmers in both areas were concerned about sustaining future agricultural operations
+UK farmers tended to emphasize diversification, but both saw expansion of equine activities as important, UK folks seemed better able to plan
+Links between farm and community were important, but in UK there were closer links than in the uS between communities and farmers
+
+
+3. Carvalho-Ribeiro, S.M., Lovett, A., O'Riordan, T. 2010. Multifunctional forest management in Northern Portugal:Moving from scenarios to governance for sustainable development. Land Use Policy 27, 1111-1122
+
+It is anticipated that governance, defined as shared forms of planning (between traditional institutions and citizens), will be important to multifunct.
+Planning for whole landscapes, not merely one territory or type of land, is important as an emerging paradigm, optimizing broad land use patterns
+As part of sustainable development writ whole, multifunctionality is essential as part of creating sustainable livelihoods
+In Portugal, even in the recent past rural areas saw agro-silviculture synthesis, inherent multifunctionality, undermined by mass production ag
+Study in Portugal contrasted two communities to identify variation in social values and governance regimes, each had different ending views
+Study attempted to utilize scenario planning, presenting image of landscape and letting interviewees 'design' desired future landscape
+Focus groups were asked how forests could fill social needs, be economically viable, and promote ecological/biological diversity
+The farmer/landholder culture in one town tended to emphasize a 'traditional multifunctionality', in the other a 'new multifunctionality' was preferred
+Traditional multifunctionality is tid to traditional land use with pluriactive potential, emphasizing productivity and economic activity
+New multifunctionality incorporated more explicitly ecosystem services and environmental protection, water flow regulation, and carbon sequestration
+Livestock grazing serves as a major differentiation, with traditional activities integrated, while in new grazing is limited and fenced
+Traditional multifunctionality tends to emphasize endogenous activities, with new multifunctionality relying more on exogenous (tourism, PES)
+Different species emphasized with respect to trees, with more broad forest coverage tied to new multifunctionality
+Advantage of study design is that scenario planning coupled with visual technology allowed for participatory research, designed landscapes
+One major finding is that governance institutions are vital to actually realizing this future, and in this case they were lacking in both cases
+
+
+4. Evans, Nick, Morris, Carol, Winter, Michael. 2002. Conceptualizing agriculture: a critique of post-productivism as the new orthodoxy. Progress in Human Geography 26:3, 313-332
+
+Post-Productivism has been theorized as the contemporary paradigm for shifting European, particularly UK, agricultural systems away from production
+Emergence appears tied to political mechanisms in EU and member countries for ensuring the persistence of agricultural subsidies
+A number of disciplines have adopted the term, and its use has become widespread enough that its definition is often left unprinted in works
+Context for P-P is rooted as well in declining agricultural profitability dating to the 1970s and continuing
+Empirical evidence for a shift appears lacking given the loose definitions and relatively short observational timeframe for observing change
+P-P tends to claim that quality focus, pluriactivity (diversification of activities), extensification, dispersion, regulation are characteristic of P-P
+The dualism of P-P is concerning, and seems to indicate that ag is becoming less integrated into world markets
+All of the supposed P-P characteristics have long been present in farms, with farmers using a variety of strategies to survive
+The concept functions as a 'distraction from theorizing' and does not explain the why, but simply serves as a description of what
+Actor Network Theory, Ecological modernization proposed as potential alternate pathways to P-P, which should be abandoned as untenable
+
+
+5. Fry, Gary L.A. 2001. Multifunctional landscapes - towards transdisciplinary research. Landscape and Urban Planning 57: 159-168
+
+Agricultural landscapes are multifunctional by nature, but single discipline research efforts don't fully recognize the complexity, interactions
+Interdisciplinary work is necessary, but there are significant challenges in the academic world to making interdisciplinary work happen
+Landscape is a potential unifying theme, allowing different disciplines to participate, assess multifunctionality
+*More here about interdisciplinarity, good stuff, just not really multifunctionality specific
+
+
+6. Hibbard, Michael & Lurie, Susan. 2013. The New Natural Resource Economy. Society & Natural Resources 26:7, 827-844
+
+Rural populations have declined during the 20th Century, and along with them rural economic health has declined
+Rural areas typically rely on primary production - agriculture and natural resources - for their economic productivity
+Industrialization, Specialization, Standardization, Consolidation, and the Commodity production orientation of society are rural banes
+A new paradigm is emerging, that of the New Natural Resource Economy, which seeks to diversify rural economic activity
+Rural people appear to value their state of existence enough to accept lower wages and income, but poverty is now endemic
+They are rebuilding around the natural resources they are typically proximate to, but not focusing on only one industry/company
+Money that enters rural regions tends to have outsized effects than its simple dollar amount would seem to indicate
+Payment for Ecosystem Services is a reasonable concept rooted in the hidden benefits external agents gain from natural systems
+Community supported agriculture systems and other small-scale production initiatives can scale to the needs of rural areas
+Stability has long been sought but has remained elusive for rural communities dependent on commodity production: resilience is better
+Resilient communities under NNRE have 3 dimensions: A traded sector, import replacement, and ensuring local goods availability
+A traded sector where goods can be produced for sale externally is still important, but can't be the entire focus
+Import replacement involves local production of goods and services where feasible to avoid cash outflows
+Ensuring availability of local goods means promoting local businesses and service providers to meet needs locally
+Grant County, Umatilla County, and Vernonia are 3 examples of movements towards more resilient NNRE economies
+Rural communities rely on very small businesses and natural capital, their location will most always ensure these are the case
+NNRE fits well with the emerging idea of multifunctionality, utilizing landscape to provide multiple values
+
+
+7. Hollander, Gail M. 2004. Agricultural trade liberalization, multifunctionality, and sugar in the south Florida landscape. Geoforum 35, 299-312
+
+
+Multifunctionality has typically arisen as an argument in response to protecting ag lands from trade liberalization
+In Florida, sugar cane has often been planted in the everglades as a hedge against farm losses, part of widespread and complex sugar infrastructure
+Sugar cane production in the everglades has come to be opposed by much of the environmental movement in the area demanding Everglades restoration
+Multifunctionality is primarly of 2 flavors - weak, being tied mainly to trade concerns, strong, a more radical restructuring of land use
+Historic cane sugar production in Florida has tied small producers to company owned processing infrastructure in a close-knit system
+It provided labor opportunities at a slack time, but has come under threat from suburban environmental groups unconcerned with farmer livelihood
+Attempts at 'restoration' via agriculture idling are not necessarily beneficial - long managed landscape, possible negative consequences of idling
+A potential multifunctional pathway with respect to sugar cane is that its growth in places serves a stabilizing function for current landscape
+European claims to a unique way of agriculture not easily sustained, multifunctional concepts implicit for much of agricultural history
+Weak multifunctionality arguments do not counter liberalization of trade and production responsible for undermining current multifunctionality
+Strong multifunctionality sees it as resistance to globalization/liberalization, but not always are purported benefits present or apparent
+A danger of multifunctionality is its typically fuzzy definition, it seems to be adapted to situations as needed, and risks incoherence
+
+
+8. Holmes, John. 2002. Diversity and change in Australia's rangelands: a post-productivist transition with a difference? Transactions of the Institute of British Geographers 27:1, 362-384
+
+Wilson's critique of the P/P-P debate may transfer well from agriculture to rangeland systems, important in US West and Australia
+Australian rangelands are experiencing a significant transition although they are spatially distant from major capital accumulation centers
+Outback has been historically associated with pastoralism despite the low contribution of this practice to overall Australian GDP
+Neoliberal and rationalist economic assumptions have deeply impacted rural Australia, less so in pastoral areas due to distance but still important
+Australian fiscal subsidies equally applied to regions have led to more money directed to rural, sparsely populated provinces, to promote development
+A general P-P transition seems evident from evidence, with changing state attention and legal regimes shifting activities in Outback
+Increasing attention to aboriginal land rights and their expanding claims under a unique mechanism is shifting pastoral land use
+Aboriginal land titles and the concordant use of land is tied to desire for access, not occupancy, in accordance with past traditions
+P/P-P transition ideas seem justified in Australian Outback context, although European-specific conceptions are not always tenable
+Transition drivers are Ag overcapacity, Amenity uses, and changing values in society, and multifunctionality may well be a useful concept
+
+
+9. Holmes, John. 2006. Impulses towards a multifunctional transition in rural Australia: Gaps in the research agenda. Journal of Rural Studies 22, 142-160
+
+"at its core, the multifunctinal transition involves a radical re-ordering in the three basic purposes underlying human use of rural space, namely production, consumption, and protection."
+This transition is characterized by a shift from the production focus to a more diverse set of balanced production, consumption, protection interests
+P-P has not entirely escaped UK, with not enough attention paid to the ideas even in other anglophone regions
+But multifunctionality is a better concept as it applies to rural areas more generally, recognizes 20th century as possible aberration
+Historically, multifunctionality was the rule in land use, in the 'holistic' subsistence mode, only industrialization led to monofunctionality
+Ties to European and WTO rules with respect to policy and trade, and broadly connected to the push for sustainability in land use
+Identifies a series of different modes of occupance which emphasize different values in different ways - consumption, production, protection
+Australia's different settlement patterns and amount of space causes different patterns from UK, as there is less competition between mods
+***this article provides a typology of different modes and describes the characteristics of each, created by author
+Population density is strongly tied to landholder options and mode of occupance seen, so inland/coastal Aus. trajectories differ
+Different typologies have been developed to characterize rural, these tend to be context-dependent, between Aus. and UK
+Combines aspects of Marsden and Barr typologies, incorporating into a triple axis (pyramid) with axis of consumption, production, protection
+US context likely requires further categories in such a typology given the level of public land ownership, government regulations, multiple us doctrine
+In Australia, there's a context where movement between modes appears to be underway, in places, depending on de-intensification of, usually, pastoral land
+
+
+10. Holmes, John. 2010. Divergent Regional Trajectories in Australia's Tropical Savannas: Indicators of a Multifunctional Rural Transition. Geographical Research 48:4, 342-358
+
+
+Multifunctionality can be considered as existing between poles of production, consumption, protection, with a series of modes based on particulars
+Transition can take place in a region between one more or another between these poles, can be tracked empirically over time
+This work attempts to assign a score based on amenity values to regions in Northern Australia, connecting them to CSIRO metrics in pastoral areas
+A transition is taking place where farms are moving towards multifunctionality, mediated by local conditions
+
+
+11. Huttunen, Suvi. Wood energy production, sustainable farming livelihood and multifunctionality in Finland. Journal of Rural Studies 28, 549-558
+
+Farmers in Europe but also Finland have faced structural changes which have caused loss in farm numbers even as farm sized have increased
+Many farms are adopting auxiliary production, a major component of which is renewable energy production, particularly heat entrepreneurship
+Heat entrepreneurship is primarily focused on using wood products to generae heat energy, and small businesses are set up that own/supply heat units
+Some are owner-operated, many are actually cooperative projects, some entrepreneurs are involved in several projects
+Biofuel/bioenergy is important in the Finnish mix, reaching 20% of production, utilizing locally plentiful wood resources
+MUltifunctionality as a concept provides a way of incorporating community values into productive action, keeping culture alive umw
+MUltifunctionality has been strongly tied to sustainability in a rural context, tied to pluriactivity and non-ag production and development-focused
+Work interviewed 15 male heat entrepreneurs (no women present in study area) to understand the broad 'picture' associated with the idea
+Heat entrepreneurs are typically agriculturalists, but pursue heat entrepreneurship in the off-season to supplement income
+Heat plants range in size from 80 kw to 2 mw, range in utilization from a school to a full village heating plant
+Different levels of investment observed, and different levels of participation levels (labor contribution) even in cooperatives
+Typical process is taking wood from an owned forest and chipping to provide fuel for the heating systems
+Participants split between 'promoters' who don't rely on the income, networkers who partly do but value relationships, diversifiers who need the income
+Different participant 'class' determines concerns as well, more financial committment is related to more concern about operations, profitability
+Tradeoffs are essential to understand and level of multifunctionality is dependent on individual actors and their values, not just economic 
+
+
+12. Kelly, Erin Clover, Bliss, John C. 2012. From Industrial Ownership to Multifunctional Landscapes: Tenure Change and Rural Restructuring in Central Oregon. Society & Natural Resources: An International Journal 25:11
+
+Many companies have divested from their Oregon forest land in the past two decades, raising new ownership possibilities
+This divestment has raised the possibility of communities taking control of lands, creating conservation ownerships or community forests
+Oregon forest lands appear to have gone through a transition to productivism and now, it appears, to a multifunctional paradigm
+The idea of the 'New West' ties recreation and amenities to natural landscapes, part of a rural development paradigm exhibited in many US West places
+Community capacity is becoming an important concept for assessing change over time, particularly as ownership of forest lands is shifting
+Oregon was home to industrial forestry through the 20th Century, known to be unsustainable by mid-century, ended with Northwest Forest Plan
+In wake of the massive loss of timber revenues some communities, such as Bend, have thrived be embracing amenities and influx of wealth
+Oregon House Bill 2729, from 2005, allows municipalities to purchase privately owned forests to become community forests, using bonds
+But community capacity to engage in this effort, along with differing visions of what landscapes should look like, impact viability
+Gilchrist Oregon was not able to successfully create a community forest, while Bend had the assets and drive to seek this opportunity
+But Oregon Department of Forestry did end up purchasing Gilchrist site lands, so state level investment can happen
+Unclear the level to which Gilchrist can utilize this forest given its location for amenities, Bend is better places 
+
+
+
+13. Kohler, Florent, Thierry, Chloe, Marchand, Guillaume. 2014. Multifunctional Agriculture and Farmers' Attitudes: Two Case Studies in Rural France. Human Ecology 42: 929-949
+
+Farmer attitudes towards nature matter in conservation, historically a privileged relationship with farmers effectively seen as landscape managers
+Political pressures and development processes constrain farmer actions, changing climate sees them as responsible for environmental protection
+History, social dynamics, both very important for understanding farmer attitudes, which affects environmental variables given their level of control
+Ag land is still common in France, where half territory is ag, but land consolidation shifted character of terrain and habitats
+Destruction of hedges has damaged habitat, particularly for animals that mitigate agricultural pests, and eutrophication has affected marine habitats
+This work interviewed farmers and residents in two communities, seeking differences in perception of multifunctionality, general environment
+Farmers were typically found to have a more utilitarian view of nature, and they believed they were better understanders of nature than 'experts'
+Ag tendency is to eliminate untamed nature, put all land into some sort of productive use, while civilians preferred more hedges, trees
+Farmers typically describe land under proper management as 'clean and tidy', although organic farmers are more tolerant of wilderness
+
+
+14. Lovell, Sarah Taylor, and Johnston, Douglas M. Creating multifunctional landscapes: how can the field of ecology inform the design of the landscape? Frontiers in Ecology and Environment 7(4): 212-220
+
+Landscape Ecology is an applied field that examines landscape structure over time, incorporates spatial metrics, and creates analytical impact models
+Broad process: Site description & landscape context - characterize/analyze status quo - create plan - design site for eco. function - monitor functions
+Multi-scale approach necessary that incorporates externalities as part of landscape characterization, create process models
+Ecosystem approach to multifunctionality is about provision of multiple services in same area, environmental, social, economic
+Heterogeneity, biodiversity, water quality/quantity, overall performance of landscape are vital in design
+Effective landscape design makes the ecosystem function apparent to help educate broader public
+Experiment with this process in Illinois highlighted issues, including lack of typical involvement of ecologists at early stage
+Multi-scale, multi-temporal approach key, complexity must be accepted, more applied research with more support from science community key, interdiscipline
+
+
+15. Marsden, Terry, and Sonnino, Roberta. 2008. Rural development and the regional state: Denying multifunctional agriculture in the UK. Journal of Rural Studies 24, 422-431
+
+The idea of multifunctional agriculture has been appropriated by competing interests, and the idea is not uniformly understood
+It is varyingly understood as a palliative to productvist price squeezes, a consumptive countryside needing regulation, or part of sustainable develop.
+"multifunctionality is a pro-active development tool to promote more sustainable economies of scope and synergy"
+3 conditions to be met - add income and employment (to ag), adds to new ag meeting social expectations, radically redefine rural resources beyond farming
+In the UK policy has not fully embraced multifunctionality despite verbiage, has rather promoted regionalization of existing trends, plus diversification
+UK policy has mostly utilized pluriactive definition, pushing for multiple income streams on farms, while otherwise staying neoliberal
+Rural areas in UK have long been tourist-dependent, as shown by issues post Foot/Mouth outbreak, which led to decreased revenues for farms
+Local food, local markets/supply chains, coupled with visually attractive countryside are parts of a more multifunctional approach
+UK Ag is stuck in contradiction, with broader system still rationalist, but coupled with local diversification - movement towards multifunctionality
+
+ 
+16. McCarthy, James. 2005. Rural geography: multifunctional rural geographies \96 reactionary or radical? Progress in Human Geography 29:6, 773\96782
+
+In the early 21st Century, for the first time in history the proportion of people living in urban areas exceeded that of those in rural areas
+Rural Geo. studies have effectively embraced an academic labor division, focusing on rural North, with development studies focusing on rural South
+Defines rural multifunctionality as managing landscapes to "produce a range of commodity and noncommodity use values simultaneously"
+Multifunctionality grew out of concerns that P/P-P dichotomy was not helpful, empirically weak, recognizing multiple pathways/configurations
+In the US, multifunctionality is often considered under the label 'working landscapes', in the sense of 'working forests' and the like
+There are splits in understanding between the European tradition/definition and American tradition/definition, and in policy efforts
+There is a need in multifunctionality debates for precise metrics, given the strong claims made by proponents
+A tendency to accept uncritically that people increasingly demand environmental protections, amenities, is problematic, and to what degree they do
+Multifunctionality has been used in a variety of ways, so its actual meaning gives rise to its potentially becoming part of neoliberalization
+There is a danger that the ecosystem services narratives and the like could reduce all environmental benefits to multifunctionality to mere prices
+Governance shiftsto put responsibilities on local entities could end up forcing burdens onto local producers, exacerbating inequality
+Need for data on people's preferences on land use, on ecological consequences of shifting use, of better understanding 'rationality' in actor behavior
+
+17. McCarthy, James. 2006. Rural geography: alternative rural economies \96 the search for alterity in forests, fisheries, food, and fair trade. Progress in Human Geography 30:6, 803-811
+
+A number of efforts have been made to identify and understand rural economies on an alternative basis, emphasizing local production/consumption
+'Alterity' encompasses not just food networks, but forest certification, community forests, fisheries, and the like
+Gibson-Graham in 1996 called for recognizing and enacting alternatives to capitalist systems, both functions being equally important
+The 'rural' is a common site for considering alterity, given proximity to production embeddedness of economic concerns in the idea of local
+Community forests have existed in industrialized contexts as affront to capitalism as well as sites for multifunctionality debates
+There are dangers to community forests in the form of elite capture, democratization may not be as strongly tied as desired
+Similarly, certification schemes have suffered from barriers to entry to small producers, have not always had desired results
+Fisheries have dealt with some of the same issues as forests, particularly with respect to certification issues
+Food networks have similarly experienced problems getting established, with certification schemes not perfoming as predicted, becoming more capitalist
+Embracing the idea of 'alternative' means specifying alternative to what, and what makes them alternative in nature
+Production/exchange are still vital in most 'alternative' products, they do not entirely eschew capitalist dynamics
+The 'Alternative' and 'Conventional' options may represent an unsustainable duality, with some things not being purely either
+Alternative systems have not really changed much so far, and it remains to be seen how much they simply follow previous patterns
+
+
+18. Mather, Alexander S., Hill, Gary, Nijnik, Maria. 2006. Post-productivism and rural land use: cul de sac or challenge for theorization? Journal of Rural Studies 22: 441-455
+
+P-P has come under attack, but may benefit from a more focused definition in order to avoid some of the challenges
+P-P has not seen its full potential realized, and may be particularly important when it comes to theorizing land use change
+P-P has been weakened by W.Europe focus, fuzzy definitions, lack of empirics, and an over-focus on agriculture
+Elements of P-P vary between authors, multiple dimensions exist, magnitudes required for transition to be P-P unclear, independence of trends/drivers
+Under more restricted definitions, there does appear to be empirical evidence backing P-P idea, particlarly when looking at non-ag sectors in UK
+Expansion of farms with forests is an example of post-productive shift, along with shift to de-intensified agriculture
+Theorization remains difficult due to fuzziness of causation, Maslow's hierarchy may provide explanatory value for changing values in society
+Spatial explanations may also be difficult to incorporate into theory, even as spatially distinct patterns appear to be important
+
+
+19. Morgan, Selyf Lloyd, Marsden, Terry, Miele, Mara, Morley, Adrian. 2010. Agricultural multifunctionality and farmers' entrepreneurial skills: A study of Tuscan and Welsh farmers. Journal of Rural Studies 26: 116-129
+
+Entrepreneurial skills of farmers, compared between Tuscany and Wales, may potentially have strong impact on multifunctionality
+Tuscan way of doing agriculture combines it with rural development, but Wales does not appear to exhibit as integrated an approach
+Different farmers have different orientations, different strategies, and different levels of entrepreneurial capability
+Tuscan model demonstrates a situation where farmers have deep relationships with one another, shared understandings, and common institutions
+Welsh model appears more recent, a result of pressures of the market and search for ways to cope
+
+
+20. Naveh, Zev. 2001. Ten major premises for a holistic conception of multifunctional landscapes. Landscape and Urban Planning 57: 569-284
+
+To fully understand the potential for a transdisciplinary approach to multifunctional landscapes one must abandon reductionist, positivist assumptions
+Holism is necessary, along with a systems view, allowing subject experts to understand their own area and then explore other areas
+10 Premises are presented to help determine "a holistic theory of landscapes...rooted in general systems theory"
+MFLs exist as part of self-organizing, dissipative structures that do not reach equilibrium
+They are more than the sum of parts, they are part off a hierarchical nature organization (holarchy), they are complex interactions of nature and culture
+Concrete 'gestalt systems' of entire human ecosystem, transdisciplinary view could merge cultural diversity, ecological heterogeneity
+Holistic insights are critical, surmounting dualism important and done by recognizing cognitive and natural basis
+Transdisciplinary teams are essential, and "post-industrial symbiosis between nature and human society" essential to overcoming antagonism
+* I am NOT doing this piece justice, but a full treatment requires incorporating systems theory more directly, not possible in this context
+
+
+21. Potter, Clive, and Burney, Jonathan. 2002. Agricultural multifunctionality in the WTO - legitimate non-trade concern or disguised protectionism? Journal of Rural Studies 18, 35-47
+
+The EU used claims of multifunctional benefits of agriculture to back up its position on continuing to provide subsidies to agricultural producers
+This argument depends on actual production of these amenity, cultural, so on, benefits, and that continuing use of marginal land necessary for them
+Counter-argument in trade talks is that multifunctionality is just a way of ensuring continued anti-competitive subsidies for political gain
+Use of the term is particularly linked to countries in Europe with particularly strong ag traditions not fully liberalised
+US has tended to remain somewhat neutral on term in negotiations, with developing countries attacking the multifunctional characterization
+As a functional policy mechanism there is doubt about its true suitability and utility in providing the benefits claimed
+The debate is partly about decoupling agricultural occupance from market concerns, but in liberal terms actual values hard to establish
+
+
+
+22. Renting, H., Rosing, W.A.H., Groot, J.C.J., Van der Ploeg, J.D., Laurent, C., Perraud, D., Stobbelaar, D.J., Van Ittersum, M.K. 2009. Exploring multifunctional agriculture. A review of conceptual approaches and prospects for an integrative transitional framework. Journal of Environmental Management 90, S112-S123
+
+Internal meaning/uses of 'multifunctionality' differ, but broad meaning is that productivity can be paired with other uses, like conservation, rural dev.
+Multifunctional agriculture is only useful if it is connected to sustainability in development, primarily with respect to rural areas
+There are a variety of different approaches, broadly grouped under market, land-use, actor-oriented, and public regulation
+It is important to begin developing more coherent views of multifunctionality that cross these approaches, merging them
+*Lots more here, but mostly tied to different approaches 
+
+
+
+23. Reyers, Belinda, O'Farrell, Patrick J., Nel, Jeanne L., Wilson, Kerrie. 2012. Expanding the conservation toolbox: conservation planning of multifunctional landscapes. Landscape Ecology 27: 1121-1134
+
+Multifunctional landscapes and conservation efforts may be converging, ecosystem service provision being valued can tie two together
+Marxan analysis attempts to efficiently allocate 'planning units' by comparing conservation cost to biodiversity, in defined grid
+This study worked in South Africa (Little Karoo) to assess different land uses for each planning unit to assess potential conservation outcomes
+Different types of land use are differentially useful in preserving biodiversity, and opportunity costs vary depending on planning unit
+Cost-benefit analysis at heart of this work, essential but research intensive, beset by uncertainty on both cost and benefit sides
+However, using this as a study area, material benefits of multifunctionality are present and demonstrated, cost reductions and income boosts
+This depends on payment for ecosystem services, pollution regulation, and having tourism, to offset farmer opportunity costs
+
+
+24. Rodriguez-Loinaz, Gloria, Alday, Josu G., Onaindia, Miren. Multiple ecosystem services landscape index: A tool for multifunctional landscapes conservation. Journal of Environmental Management 147, 152-163
+
+
+It is important to assess multifunctionality using an indicator to assess dynamism, drivers, inform management action
+Study in Basque country incorporated indicators into broader index MESLI, including provisioning, regulation, cultural ecosystem services, biodiversity
+Standardized index can compare locales side by side according to common scheme, and incorporate both socioeconomic and environmental factors
+Statistical analysis of indicators in areas demonstrated different land uses/intensities differentially affected ecosystem service provision
+Urban areas, monoculture agricultural landscapes were poorly multifunctional, low ecosystem service provision, forests tended to have higherES provision
+
+
+
+25. Slee, Bill. 2007. Social indicators of multifunctional rural land use: The case of forestry in the UK. Agriculture, Ecosystems and Environment 120: 31-40
+
+
+Markets have been involved in the slow but sure degradation in economic significance of rural areas based in primary production
+Mono-functional systems were a result of marketization, but have started to be challenged in the EU, with emphasis shifting to multifunctinality
+General social aspects of forestry are subject of increased attention, but a challenge is to find indicators sufficient to inform debate/science
+Conventional economics and its broadly utilitarian approach misses important dynamics, fails to recognize social values, including spiritual values
+Multifunctional forestry has appeared in the UK due to changing social values, renewed attention to people and health of ecosystems
+People clearly value forests and what they provide, they are a recreational and cultural resource, so non-market benefits exist
+Traditional cost-benefit analysis insufficient to fully capture social indicators, broadened spectrum necessary
+
+
+
+26. Soini, Katriina. 2001. Exploring human dimensions of multifunctional landscapes through mapping and map-making. Landscape and Urban Planning 57: 225-239
+
+
+Maps serve as abstractions of reality, preceded by cognitive processes and creativity, connecting the person to the environment
+Mental maps allow people to draw their impression of the environment, while concept mapping is more about connecting non-physical ideas
+The idea of landscape is more complicated than it appears, incorporating compelx interacting processes and human perception thereof
+Multifunctionality is a difficult concept, can be tied to mental, social process as well as material, focus on interactions
+Mapping may function as a bridge between social and natural sciences, supporting landscape planning, letting people direct meaning of physical data
+It can help identify what people perceive, what are boundaries, what are landmarks, and help in planning efforts
+Mental maps can elucidate subjective world of sensory impressions, help identify collective subjective meanings, be combined with interviews, observation
+*Good stuff here about cultural geo, mental impression of landscapes, to come back to it for method development!
+
+
+
+27. Ssegane, Herbert, Negri, M. Christina, Quinn, John, Urgun-Demirtas, Meltem. 2015. Multifunctional landscapes: Site characterization and field-scale design to incorporate biomass production into an agricultural system. Biomass and Bioenergy 80, 179-190
+
+Bioenergy can tie into multifunctionality by providing a revenue generating land use that also reduces nutrient loads emanating from agricultural land
+A study in Illinois planted switchgrass and willow in lines in a cornfield, intercepting mobile nitrogen entering soil from fertilizer application
+These crops absorbed nitrogen, and were valuable to farmers in that they could be sent to biofuel plants, offsetting total yield losses
+Spatial heterogeneity in crop yields within the farm allowed biofuel crops to be planted in areas of lower corn yields, minimizing opportunity costs
+Corn yields declined from 10.4 to 9.7/8.7 (mg/ha)/year (switchgrass/willow), but N03 leach went from 31.9 to 12.5/11.6 KgN/ha/yr, N20 Flux 2.2 to 1.9/2.0
+For broader assessment, NDVI can be utilized to assess yields, allowing site selection for biofuel species planted in lines to intercept N
+
+
+28. Wiggering, Hubert, Dalchow, Claus, Glemnitz, Michael, Helming, Katharina, Muller, Klaus, Schultz, Alfred, Stachow, Ulrich, Zander, Peter. 2006. Indicators for multifunctional land use - Linking socio-economic requirements with landscape potentials. Ecological Indicators 6: 238-249
+
+Idea of the multifunctional landscape is tied inexorably to multiple needs being satisfied by landscape, tied to sustainability
+Understanding multifunctionality tied to assessing how land use and landscape functions interact to affect sustainability, mesh with multiple uses
+Determining indicators is a difficult business, requiring understanding pragmatic issues as well as theory, and are aggregates of fundamental metrics
+* Despite title, majority of this article is just neoclassical econ applied to multifunctionality
+
+
+29. Stoate, C. 2002. Multifunctonal use of a natural resource on farmland: wild pheasant (Phasianus colchicus) management and the conservation of farmland passerines. Biodiversity and Conservation 11, 561-573
+
+The typical state of European agricultural systemshas typically been one of multifunctionality, Spain and Portugal have continued tradition
+Bird species have typically been on the decline in much of rural England, something of concern to the large birdwatching/hunting population in England
+Game shooting is a potential multifunctionality avenue, given the significant expenditures of UK citizens on shooting ventures
+A management system for pheasants is demonstrated to exhibit positive impacts on broader habitat and biodiversity metrics for birds, esp. population
+Hedge management is particularly important for a variety of bird species, including pheasants, helping improve bird habitat
+
+
+30. Wilson, Geoff A. 2001. From productivism to post-productivism... and back again? Exploring the (un)changed natural and mental landscapes of European agriculture. Transactions of the Institute of British Geographers 26:1, 77-102
+
+Post-Productivism  emerged in observation that ag lands were increasingly producing non-specifically agricultural crops/values to society
+Concepts of Productivism and P-P emerged broadly from a political economy/structuralist context, emphasizing issues in agriculture
+However, it may be better to view these as existing on a spectrum rather than as distinct entities due to longstanding non-ag product production on agland
+In UK, productivism is typically associated with monocropped industrial ag production to meet national/international market demand for food
+Tied to agricultural hegemony, intensive use of land, specialization, commercialization, in context of plentiful government subsidies
+P-P tied more to changed perceptions of Ag, New forms of rural land use/production, environmental considerations, sustainability focus
+P and P-P typically considered to be in opposition, mutually exclusive, with natural trend over time is shift from P to P-P
+Political-Economic focus in both discourses ties analysis to role of state, markets, role of producers in capitalism, de-personalization of farmers
+Discourse would be improved via utilizing an actor focus with strong considerations for actor behavior, beliefs, and values
+Assessment of farmers according to this seems to indicate many in purported P-P mode still see selves in P way, strategic in their choices
+P/P-P heavily tied to UK context, translating outside this can be difficult, and regional differences in ag practices exist even in Europe
+Suggests using the term 'Multifunctional Agricultural Regime' to recognize position of individual farmers on spectrum between P and P/P
+This would accord with farmers choosing to be P in some areas and P-P in others, not necessarily mutually exclusive paths
+Also necessary to take Multifunctional concept beyond just agriculture, speak of 'Multifunctional Rural Regimes'
+
+
+31. Wilson, Geoff A. 2008. From 'weak' to 'strong' multifunctionality: Conceptualising farm-level multifunctional transition pathways. Journal of Rural Studies 24: 367-383
+
+Even if an 'ideal' strong multifunctional system could be identified, variations from this would be expected due to differing circumstances
+Multifunctionality is tied ultimately to farm-level actions and ideas, which are not conducive to homo economicus rational assumptions
+Decision making can be considered on a graph with axis of weak to strong vs. enabling factors - wide to narrow. This forms a 'funnel'
+Where a particular land user falls is tied to characterisstics such as profitability, land type, access to markets, country development
+In much of the world, lowland farms tend to be less multifunctional than upland farms, but the spectrum is wide
+Pure farms whether focus is on plants or animals, tend to be poorly multifunctional, but some mixed farms exist and are moreso
+Hobby farms are often very multifunctional, in part due to their lack of need to focus on profitability, but may remain only moderately multifunctional
+Mountainous areas are often seen to be more strongly multifunctonal, though cultural factors play a strong role
+Farm level transitions can be rocky, are strongly dependent on broader markets, consumer support, and factors like a farmer's health
+Farmers must be considered as having a range of options, restricted by their own risk tolerance and external stimuli, determiningmultifunctionality
+An individual farmer's willingness to transition to multifunctionality, and this may be tied to multifunctional potential
+Physical factors impact whether or not an individual can embrace multifunctionality and to what degree
+Further qualitiative, ethnographic methods are necessary in order to better understand landholder action
+
+
+32. Wilson, Geoff A. 2009. The spatiality of multifunctional agriculture: A human geography perspective. Geoforum 40:269-280
+
+
+Geography is the ideal discipline from which study of spatial aspects of multifunctional agriculture can take place
+Scalar hierarchy, per Smith, is dangerous due to social constructed nature, but sensible to recognize scalar hierarchy as key in rural geography
+Multifunctionality is typically more indirectly expressed at higher scale levels, and more direct at lower levels
+Spatiality and its effects on multifunctionality are inadequately theorized at this point
+Interactions between places and scales also insufficiently understood, and the dependencies which may occur between places
+
+
+33. Wilson, Geoff A. 2010. Multifunctional 'quality' and rural community resilience. Transactions of the Institute of British Geographers. 35:364-381
+
+Multifunctionality has been applied to agricultural and later generally rural areas, recognizing commodity and non-commodity goods simultaneously made
+It is more and more standard in both the north and south, raising questions of degrees of multifunctionality and pathways towards it
+Applying multifunctionality to communities useful but must recognize the power and divergent community values present even where it is present
+Quality can be a dangerous term to use, particularly in recognition of varying perceptions, most uses of term are normative, not purely ontological
+Typically 'strong' multifunctionality is viewed as positive, 'weak' as negative, but this is not essentially the case given existing literature
+Adding a useful normative element requires addressing emerging literature in resilience and vulnerability tied to human systems
+Multifunctionality has often been tied to different capitals, environmental, social, umw, which invariably ties into existing systems of power
+Communities that wish to be sustainable and resilient must embrace multifunctionality in order to survive
+The relationship to multifunctionality with respect to integration into capitalist world market uncertain, can be opportunity for community or threat
+Most communities will be somewhere between extremes of monofunctionality and perfect multifunctionality, with monofunctional places typically weaker
+Rural systems can be seen evolving over time, with a 'decision-making corridor' widening over time, even as move to productivism reduces multifunction.
+They have shifted from subsistence ag, to embeddedness in market systems and productivism, to current state of open decision paths to future
+Policy can be constructed and employed to boost multifunctionality, tied to cultural memory and improving local capital, as part of moral goal
+It may be possible to prevent currently multifunctional places from succumbing to productivism, to mitigage 'super-productivism'
+'Scenically attactive' rural areas have an advantage, and it is important to reconsider food systems, and help individuals shift personal goals/values
+
+
+34. Wilson, Geoff A. 2009. The spatiality of multifunctional agriculture: A human geography perspective. Geoforum 40, 269-280
+
+The multifunctional ag idea existed in EU documents by the 1980s, tied to farm subsidies many EU countries sought to protect
+Strongly multifunctional situations have high capital, low intensity farming, and be sustainable, avoid long supply chains, local/regional embedding
+It is a normative concept with strong flavor being considered good, and survival of farming tied to adopting strong pathway
+Territorial expression is critical for understanding multifunctionality, with direct impacts observed/measured at farm level
+Spatiality is vital to understand multifunctionality, and even though it is flawed, nested hierarchy of spatial levels is useful
+Less direct multifunctional impacts observed as one moves up the hierarchy of levels, with national/global multifunctionality being very much indirect
+Farm level is the smallest, most important level, allowing for site diversity within farm, emphasizing owner/operator decisions/values in totality
+Rural community level is a vital level to consider due to economies of scale and interdependencies between local land owners, may be essential dimension
+Holism and sustainability are best served at community level where individuals affect their community, and at this level production ties to consumption
+Regional multifunctionality is key due to tendencies for rural policy to take place at this level, policy mediated at this level
+National level multifunctionality consideratons are important as states set the stage for lower level policy institutions, ideology key here
+The type of multifunctionality considered is mediated by the relevant scale, so farm multifunctionality key at farm level, rural multifunct. at community
+Assessing multifunctionality at global level generally absent, farms impacted by globalisation, it is tied to less multifunctionality
+There is no global enforcement similar to nation-state level enforcement, and multifunctionality may be zero-sum between nations
+
+
+
+35. Wilson, Geoff A. & Burton, Rob J.F. 2015. 'Neo-productivist' agriculture: spatial-temporal versus structuralist perspectives. Journal of Rural Studies 38, 52-64
+
+The idea of 'neo-productivist' agriculture has arisen as a result of debates about the apparent transition from productivism to post-productivism
+As opposed to going P-P, many farms are observed engaging in further intensification, in part in response to market demands
+An AOST perspective (Agency-oriented spatio-temporal) is seen as superior to a structuralist perspective due to flexibility, agent focus
+Arguably, the debate now takes place in a different world than of 20 years ago, now that malthusian arguments are being resurrected, population boom here
+AOST approach argues that pathways which could lead to multifunctionality exist between productivist and p-p poles, and transition seen in history
+Productivist tendencies have potentially existed for a long time, but history has determined the extent to which they were intensified/extensified
+Path dependency is a factor to consider, and the actions of actors in a particular context, which may push pathways in a certain direction
+Neo-productivist areas often saw a move away from productivism, but then a return to it rather than a p-p adoption or multifunctionality
+Structural views see neo-productivism as evolving over time in response to market pressures, taking cooperative or competitive forms
+So the key difference between AOST and structural approaches are the level of agency accorded to individual actors and their value systems
+AOST also tends to see neo-productivism as a new trend in productivism, not just an evolution, and tied to shift in exposure to markets
+Differences also in multifunctionality link - dependent/nonexistent in structural approach, vs. loss of multifunctionality in AOST approach
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

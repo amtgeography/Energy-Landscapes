@@ -1,0 +1,249 @@
+1.  Barnes, Trevor J. and Hayter, Robert. 2005. No "Greek-Letter Writing": Local Models of Resource Economies. Growth and Change 36(4): 453-470
+
+Models tend to be universalist constructions, abstracting from reality to represent causal relations among variables
+However, this is not the only kind of useful model, particularly when examining local resource economies
+Universal models have the advantage of, as their proponents argue, transcending the specific, making context irrelevant
+Local models by contrast do not make a claim of universal applicability, and emphasize the benefits of sensitivity to local concerns
+Through Veblen, an argument was made from within economics that cultural values, institutions, do matter, context is important
+In many places, economic concerns can only be understood if other things - culture, geography, so on, are explicitly accounted for
+Locally specific models can be useful and powerful tools in understanding dynamics despite their lack of permanent global accuracy
+
+
+2.  Bell, Michael M. 2007. The two-ness of rural life and the ends of rural scholarship. Journal of Rural Studies 23: 402-415
+
+The 'First Rural' is the material moment of the rural, but it is not always clear what is meant - significant government/academic confusion
+This rural often fails to include people, defines rural according to over-specific and arbitrary boundaries (population, density)
+Before such definitions, occupation largely defined rural, but this is vulnerable to reduction in people with 'rural' occupations, travel to cities
+Issues with rural/urban dichotomy similar to man/woman as identified in feminist theory - one has primacy, is default, companion is lesser, other
+A political economic view of rural, seeing it as victim of capital, is perhaps more compelling - still insufficient
+Second rural is the rural of ideas, the ideal moment of rural, its associations in people's minds and how people describe it
+This is something that has been around a long time, but is commonly now rooted in post-modernism and deconstruction of the 'rural idyll'
+Ideas can be critiqued for their lack of impact, but it seems reasonable to believe that ideas have material consequences, so 2nd rural impacts 1st
+There is room in rural studies not for forced unity, but pluralism in approaches, although they should not deny one another
+
+
+
+3.  Castle, Emery N., Wu, Junjie, Weber, Bruce A. 2011. Place Orientation and Rural-Urban Interdependence. Applied Economic Perspectives and Policy 33(2): 1-26
+
+Place seen as emergent from interactions of Geography, Community, and Local Jurisdiction
+
+Rural places are seen to exhibit five characteristics:
+
+	Co-existence of centralization and decentralization, roiled changing landscape
+	Rural America is highly diverse in terms of population and landscapes
+	Rural, but also urban, areas affected by exogenous forces - economic, social, political, tech.
+	Poverty, low income found everywhere, but variable in their depth, reasons
+	Rural land use is a key variable affecting natural resource/enviro. policy
+
+Three assumptions underpin this proposed framework/model:
+
+	Comparative Advantage emerges locally from human & natural enviro., allows local decisions
+	US federalism allows for local autonomy in some degree, local policy decisions
+	People and place are inseparable, joint examination needed to understand rural America
+
+This framework proposes that people must orient relative to a place in one of 3 possible ways
+
+A person can be inside or outside a place, interactions/aspirations possible in 3 dimensions:
+
+	I to I	Inside to Inside	Inside position with Inside aspirations
+	O to I	Outside to Inside	Outside position with Inside aspirations
+	I to O	Inside to Outside	Inside position with Outside aspirations
+
+I-I indicates people in a place who seek to interact with factors/people also inside the place
+O-I indicates people located outside a place, who have aspirations/interests/desires inside the place
+I-O indicates people located inside a place, whose aspirations/interests/desires are external to plac
+
+
+4.  Chen, Yong, and Weber, Bruce. 2013. Federal Forest Policy and Community Vitality in the Pacific Northwest: How Did the Northwest Forest Plan Affect Population, Wealth and Income in Rural Communities? Working Paper Number RSP 1301, Rural Studies Program, Oregon State University
+
+The 1994 Northwest Forest plan led to 11 million acres of forest land being moved from productive use to protection
+Net migration did not compensate for the employment loss caused by institution of NWFP
+Typically, assessment of amenity impacts takes place at the county level, but sub-county level demonstrates differentiated impact
+Proximity to forests, despite amenity benefits, saw lower growth and more lost population than in communities further from the forests
+Amenity impacts where present will tend to manifest over longer temporal timeframes than loss of logging employment, which is an immediate thing
+
+
+5.  Davies, Jocelyn, White, Janelle, Wright, Alyson, Maru, Yiheyis, Maru, LaFlamme, Michael. 2008. Applying the sustainable livelihoods approach in Australian desert Aboroginal development. The Rangeland Journal 30: 55-65
+
+Sustainable livelihoods is an approach widely applied in international development, but not so much to aboriginal Australia
+Aboriginals in Australia suffer from poor health, low income, significant social issues, rooted in interactions with Australian institutions
+Non-market values key to Aboriginal lands, use of the 5 capitals framework as part of sustainable livelihood approach warranted
+Livelihood is more than a job, but includes health, quality of life, cultural considerations
+Involves using a systems model to conceptually situate people's lives, recognizes dynamism and multiple dependencies
+Aboriginal culture historically tied to difficult landscape, particularly in deserts, with kin sharing, customary law, trade networks, diverse labor use
+In direct study, both material flows and cultural values were found to be of strong importance to Aboriginal community members
+Ultimately, sustainable livelihoods is about ensuring vulnerability mitigation, coupled economic and social/cultural activity, local livelihood strategy
+
+
+6.  Fisher, Dana R. 2001. Resource Dependency and Rural Poverty: Rural Areas in the United States and Japan. Rural Sociology 66(2): 181-202
+
+Distance to a metro area and proximity to forested land are both strong positive indicators of rural poverty in Hokkaido and Wisconsin
+However, sectoral employment differed entirely in its relationship with poverty between the two case studies
+Capturing service employment seems to be the most viable form of rural econ development for most communities
+
+
+7.  Grudens-Schuck, Nancy, Allen, Will, Hargrove, Tasha M., Kilvington, Margaret. 2003. Renovating dependency and self-reliance for participatory sustainable development. Agriculture and Human Values 20: 53-64
+
+A significant issue in sustainability writ large is the tendency for human-centric issues to be overwhelmed by the material concerns
+Participatory approaches can be useful in connecting humans to sustainability, but can be negatively impacted by education which promotes domination
+Dependency can result even from efforts to promote self-reliance as outsiders appear to be dominating discussions and processes
+Self-reliance needs to be instituted but in phases, with external individuals slowly removing themselves post-training
+
+
+8.  Halfacree, Keith. 2007. Trial by space for a 'radical rural': Introducing alternative localities, representations, and lives. Journal of Rural Studies 23: 125-141
+
+There appears to be widespread agreement that rural places are experiencing particularly rapid change, melds well with geo utopian interest (recent)
+Adapting Lefebvre, a model of rural space with 3 dimensions can be produced, with rural space being combination of practices, representation, and space
+Spatial practices delimit physical boundaries, similar to locality, about "material expression and socal reproduction"
+Representations of space are tied to how elites/professionals imagine space and detail it in writing, diagrams, jargon
+Spaces of representation are connected to the directly lived space, the symbolisms people with lived experience rely on, contested by marginal groups
+In effect, these can be rephrased in a triumvirate model of locality, representations of rural, and rural lives, space bounded by these poles
+'Productivist' countryside dominated by agricultural locality, government definition of rural, farmers feeling secure
+Rural areas are differentiating, largely along regional lines, into multifunctionality at times, but also new forms of specifically used space
+Simultaneously seen are super-productivism (re-intensification), Consuming idylls (amenities), effacement (rural ceases to exist) and radical
+Radical rural spaces are not one thing, can even range from national-socialist valorization of rural to anti-capitalist eco focus
+Radical rural "revolves around environmentally embedded, decentralised, and relatively self-sufficient and self-reliant living ptterns"
+Tied to 1: Low impact development, 2: permaculture/organic ag, 3: additional other activities/holism/crafts, 4: perception of sources/flows in locality
+Localisation emphasis and land-based activities are key self-identity forms
+Ultimately, idea must undergo 'trial by space', in other words, actually exist to demonstrate its value
+
+
+9.  Halfacree, Keith. 2012. Diverse Ruralities in the 21st Century: From Effacement to (Re-)Invention. In International Handbook of Rural Demography
+
+Rural is periodically argued to be a non-useful category in academic studies, not worth pursuing, not truly distinctive
+This argument is rooted in assuming a fixed notion of 'rural' which is not entirely legitimate
+It is key to note that popular perception of an entity known as 'rural' (idealist) creates direct material consequences
+Perception of the rural idyll is strong in society, impacting migration patterns, so even if economically rural is endangered, in thought not so much
+In effect, arguments against rural fail to accept diversity in the term, diversity which is longstanding and not easy to wish away
+
+
+10.  Hibbard, Michael & Lurie, Susan. 2013. The New Natural Resource Economy. Society & Natural Resources 26:7, 827-844.104
+
+Rural populations have declined during the 20th Century, and along with them rural economic health has declined
+Rural areas typically rely on primary production - agriculture and natural resources - for their economic productivity
+Industrialization, Specialization, Standardization, Consolidation, and the Commodity production orientation of society are rural banes
+A new paradigm is emerging, that of the New Natural Resource Economy, which seeks to diversify rural economic activity
+Rural people appear to value their state of existence enough to accept lower wages and income, but poverty is now endemic
+They are rebuilding around the natural resources they are typically proximate to, but not focusing on only one industry/company
+Money that enters rural regions tends to have outsized effects than its simple dollar amount would seem to indicate
+Payment for Ecosystem Services is a reasonable concept rooted in the hidden benefits external agents gain from natural systems
+Community supported agriculture systems and other small-scale production initiatives can scale to the needs of rural areas
+Stability has long been sought but has remained elusive for rural communities dependent on commodity production: resilience is better
+Resilient communities under NNRE have 3 dimensions: A traded sector, import replacement, and ensuring local goods availability
+A traded sector where goods can be produced for sale externally is still important, but can't be the entire focus
+Import replacement involves local production of goods and services where feasible to avoid cash outflows
+Ensuring availability of local goods means promoting local businesses and service providers to meet needs locally
+Grant County, Umatilla County, and Vernonia are 3 examples of movements towards more resilient NNRE economies
+Rural communities rely on very small businesses and natural capital, their location will most always ensure these are the case
+NNRE fits well with the emerging idea of multifunctionality, utilizing landscape to provide multiple values
+
+
+11.  Little, Jo. 2001. New Rural Governance? Progress in Human Geography 25(1): 97-102
+
+A key argument in contemporary rural geography has been that a capitalist mode of accumulation has shifted from Fordism to post-Fordism
+Regulation is changing, a shifted emphasis on governance mechanisms which seek partnership with rural communities taking place
+But it is not certain this apparent emphasis on bottom up, rural as the driver, is more than rhetoric, may mask existing power dynamics
+Variation exists in governance taking place in rural areas, so this is a viable avenue of research in the future
+
+
+
+12.  Marsden, Terry, and Murdoch, Jonathan. 1998. Editorial: The Shifting Nature of Rural Governance and Community Participation. Journal of Rural Studies 14:(1), 1-4
+
+Concerns of those who govern rural areas are shifting as agriculture loses its hegemonic position, leading to a new debate about rural 'governance'
+Governance is characterized by new institutions, coordinated policy between govt, NGO, others, creating new 'topography of social relations'
+This topography is changing the status quo, requiring new means of handling rural issues, a potentially difficult situation
+
+
+13.  McCarthy, James. 2006. Rural geography: alternative rural economies the search for alterity in forests, fisheries, food, and fair trade. Progress in Human Geography 30:6, 803-811
+
+A number of efforts have been made to identify and understand rural economies on an alternative basis, emphasizing local production/consumption
+'Alterity' encompasses not just food networks, but forest certification, community forests, fisheries, and the like
+Gibson-Graham in 1996 called for recognizing and enacting alternatives to capitalist systems, both functions being equally important
+The 'rural' is a common site for considering alterity, given proximity to production embeddedness of economic concerns in the idea of local
+Community forests have existed in industrialized contexts as affront to capitalism as well as sites for multifunctionality debates
+There are dangers to community forests in the form of elite capture, democratization may not be as strongly tied as desired
+Similarly, certification schemes have suffered from barriers to entry to small producers, have not always had desired results
+Fisheries have dealt with some of the same issues as forests, particularly with respect to certification issues
+Food networks have similarly experienced problems getting established, with certification schemes not perfoming as predicted, becoming more capitalist
+Embracing the idea of 'alternative' means specifying alternative to what, and what makes them alternative in nature
+Production/exchange are still vital in most 'alternative' products, they do not entirely eschew capitalist dynamics
+The 'Alternative' and 'Conventional' options may represent an unsustainable duality, with some things not being purely either
+Alternative systems have not really changed much so far, and it remains to be seen how much they simply follow previous patterns
+
+
+14.  McCarthy, James. 2008. Rural geography: globalizing the countryside. Progress in Human Geography 32(1): 129-137
+
+Although the status of rural communities is changing in the globalized world, they are not immune to it - they are being pushed to offer something new
+Rural-urban dichotomy is still present, with the urban assumed to be crowded, noisy, dirty, and the rural to be idyllic, natural, quiet, safe, communal
+But this is less progress, and more a continuation of dichotomy that is rooted in perception, not reality, and tied to desires of wealthy
+Amenity migration is tied to this dichotomy, with wealthy former urban people effectively suburbanizing the rural areas
+It serves as yet another commodification of the landscape, post-productive to be sure, but no less controlled by globalization
+There are class dimensions present in the contemporary rural-urban perceptive division, with 'rural' being idealized, separated from its heritage
+
+
+15.  Nelson, Peter B. 2001. Rural restructuring in the American West: land use, family and class discourses. Journal of Rural Studies 17: 395-407
+
+The US West is transforming as globalization proceeds, with cities becoming nodes for massive development tied to global processes
+Economies tied to natural production have been typical of rural regions, along with boom/bust cycles, but new pressures have emerged
+Significant migration is taking place, leading to sometimes dramatic shifts in the composition of rural communities along with conflict
+The shift in rural human composition, with wealthy in-migrants from the middle class arriving, is likely to be accompanied by new class division
+SIgnificant variation exists between and within communities as to the effects of these shifts in politics, demographics, values, so on
+Restrictions from government regulation are perceived as becoming more of a factor, along with moneyed interests from would-be buyers
+
+
+16.  Pickerill, Jenny, & Chatterton, Pau. 2006. Notes towards autonomous geographies: creation, resistance, and self-management as survival tactics. Progress in Human Geography 30(6): 730-746
+
+Autonomous geographies are spaces for people to organize on a non-capitalist basis, using resistance, creation - zapatistas an example
+Emphasis here is intended to "explore the materialization of utopian visions" and pursue alter-globalisation, tied to anti-capitalism and social justic
+Time and space are less important than collection of ideas and movements tha transcend these, seeks to undermine reliance on capitalist institutions
+Autonomy is in constant negotiation with non-autonomy, a combination of resistance, creation, that is rooted in praxis
+Differences inherent between individual autonomy and collective autonomy, in tension, with autonomy vulnerable to capture by regressive interests
+4 pillars: "political ownership and control, cultural and media literacy, the self-determination of organizational forms, and economic self-reliance"
+Globalization best seen as tied to particular narratives, presents as self-evident/inexorable but counter-globalization wants to mitigate this hegemony
+Scale broadly crossed, local actions take on global significance, workshops/speeches travel globe, autonomy utilizes global network of spaces
+Because autoomy is not strictly linked to territory, it is in constant negotiation, and must deal with global capitalist economy
+Autonomy is tied to specific acts and broader structures, multiple strategies, and global networks for idea sharing, but material impacts too
+Building autonomous geographies requires pragmatism, learning from failure, self-organization and efforts to achieve consensus
+Significant self-awareness necessary to avoid internal power imbalances rooted around gender, assertiveness, dealing with external judgement
+
+
+17.  Roche, Michael. 2005. Rural geography: A borderland revisited. Progress in Human Geography 29(3): 299-303
+
+Rural geography has emphasized multiple approaches, leading to different debates within the subfield with respect to directions, umw
+Production and consumption are linked via commodity chains, but localisation is not necessarily tied to more sustainable/socially progressive outcomes
+
+
+18.  Sherman, Jennifer, and Rayna, Sage. 2011. Sending Off All Your Good Treasures: Rural Schools, Brain-Drain, and Community Survival in the Wake of Economic Collapse. Journal of Research in Rural Education 26(11): 1-14
+
+'Golden Valley, CA' - a pseudonym for the actual town - is a Northwest town traditionally supported by timber industry, which collapsed, taking town too
+Spotted Owl Ruling of 1990 banned timber harvesting in Spotted Owl habitat, causing closure of mills and end of timber industry in area.
+The result for the town was the loss of male jobs, leaving the town an "economic black hole", leading to major outmigration.
+Education in Golden Valley became a focal point, as it was one of the few remaining employment options and surviving community centers
+But the most talented youth often see no future in remaining in town, and leave, leading to outmigration of needed people
+But a bifurcation exists with respect to which youth get the investment by community needed to receive advantages of education
+Those likely to succeed and/or are from the 'good' families are invested in, and they are the ones who leave because of lack of jobs.
+
+
+19.  Woods, Michael. 2003. Deconstructing rural protest: the emergence of a new social movement. Journal of Rural Studies 19: 309-325
+
+Rural places have been the site of increasing conflict and political debate in the developed world, not easily dismissed as mere local issues
+Perceptions of what rural is and the value of being rural are both important to people, who are seen to protest things that they see as threatening rural
+Conflicts are no longer rooted in the concerns of specific interest groups focusing on economic activities, new issues are coming to the fore
+Rural areas traditionally were externally represented by economic interest groups, internally disciplined by paternalistic political relations
+But this has begun to break down with push towards governance, and the increased movement of educated wealthy to rural places, undermining structures
+Rural identity has largely become a unifying idea as the old systems have broken apart, a new basis for protest, not necessarily into governing
+Even rural identity is contested, however, with 3 rural protest tracks observed: reactive, (traditional); progressive (new groups); aspirational (idyll)
+Different groups use different strategies to make selves heard, all tend to resust state power, are broadly characterizable as a social movement
+
+
+20.  Vergunst, Petra J.B. 2002. The Potentials and Limitations ofSelf-reliance and Self-suf?ficiency atthe Local Level: views from southern Sweden. Local Environment 7(2): 149-161
+
+The rapidity of globalization has resulted in individuals being disembedded from the context which they derived personal meaning in the past
+relocalisation has intent rooted in social and cultural worlds, to mitigate globalization impacts and retain control
+self-reliance and self-sufficiency are tied to systems thinking through recognition of feedbacks and and redundancy being important
+Adaptive management is another key concept to localisation given the ability of communities to react to changes and choose new paths
+Bioregionalism also plays a part, tying local governance based on common biological conditions to political say in managing own affairs
+Territoriality is also important when understanding localisation and bioregionalism, is connected to lifestyles of individuals and their resource us
+Self-sufficiency is tied to a desire for needs for fiber, food, energy, so on, to be met locally, inherent material connection to landscape
+Such demands high knowledge in hands of locals about ecological system, and could have differential effects on land uses depending on local conditions
+Local variation, shifts in systems of power, are consequences of a shift to emphasize self-reliance and self-sufficiency
